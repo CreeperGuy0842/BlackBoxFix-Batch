@@ -5,7 +5,7 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
 ## Features
 - Auto-runs as Administrator (prompts if not elevated)  
 - Kills and restarts `explorer.exe` safely  
-- Deletes all thumbnail cache (`thumbs.db`) files (including subfolders)  
+- Deletes all thumbnail cache (`iconcache*.db`) files (including subfolders)
 - Shows success or error messages depending on deletion results  
 
 ## Usage
@@ -19,6 +19,8 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
 - Safe to run multiple times if needed.
 
 ## Warning
+- Two options, Admin and User versions. The User version may not work well, I recommend using the Admin version.
 - If you accidentally closed the bat and you see a black screen (no desktop) just press WIN + R on your keyboard to open Run, Type "explorer.exe" and press OK and your desktop should go back.
+- These thumbnail files are safe to delete, located at `C:\Users\YourUsername\AppData\Local\Microsoft\Windows\Explorer`.
 
 Made for anyone tired of black boxes on desktop icons
