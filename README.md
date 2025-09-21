@@ -1,4 +1,4 @@
-# 🖥️ Windows Black Box Fix (.bat)
+# Windows Black Box Fix (.bat)
 
 This is a simple batch script that fixes the black box issue on Windows desktop icons by clearing the thumbnail cache and restarting Explorer.
 
