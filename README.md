@@ -9,7 +9,7 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
 - Shows success or error messages depending on deletion results  
 
 ## Usage
-- Download the .bat file [here](https://github.com/CreeperGuy0842/BlackBoxFix-Batch/releases)
+- Download the .bat file [here](https://github.com/CreeperGuy0842/BlackBoxFix-Batch/releases).
 - Right-click → Run as administrator (if not auto-elevated).
 - Wait until Explorer restarts.
 - Black boxes on icons should now be gone.
