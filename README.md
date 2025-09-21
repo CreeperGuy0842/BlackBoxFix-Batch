@@ -18,7 +18,7 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
 - Some thumbnail files may be locked by Windows; the script will notify you if it couldn’t delete all of them.  
 - Safe to run multiple times if needed.
 - Two options are provided: Admin and User versions.
-  - *Admin* version is recommended.
+  - `Admin` version is recommended.
   - `User` version may not work reliably.
 - If you accidentally close the batch file and see a black screen (no desktop):
   1. Press WIN + R
