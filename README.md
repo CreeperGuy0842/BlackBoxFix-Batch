@@ -21,8 +21,8 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
   - `Admin` version is recommended.
   - `User` version may not work reliably.
 - If you accidentally close the batch file and see a black screen (no desktop):
-  [1] Press WIN + R
-  [2] Type explorer.exe
-  [3] Hit OK — your desktop will return.
+  - Press WIN + R
+  - Type explorer.exe
+  - Hit OK — your desktop will return.
 - These thumbnail files are safe to delete, located at
 `C:\Users\<YourUsername>\AppData\Local\Microsoft\Windows\Explorer`
