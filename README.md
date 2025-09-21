@@ -24,5 +24,6 @@ This is a simple batch script that fixes the black box issue on Windows desktop 
   - Press WIN + R
   - Type explorer.exe
   - Hit OK — your desktop will return.
-- These thumbnail files are safe to delete, located at
-`C:\Users\<YourUsername>\AppData\Local\Microsoft\Windows\Explorer`
+- These thumbnail files are safe to delete, located at `C:\Users\<YourUsername>\AppData\Local\Microsoft\Windows\Explorer`
+- Written entirely in Windows Batch.
+- Lightweight, portable, no dependencies.
